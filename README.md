@@ -16,6 +16,25 @@ GeorgePM 将三阶段产品工作流整理成可复用的指引和模板，面�
 
 本仓库提供 Skill 源码和兼容插件清单，尚不代表已进入任何官方插件商店。无需 API Key、MCP 服务或作者的私人环境；原型真实验证需要宿主具备浏览器工具。
 
+### 从 GitHub 安装
+
+仓库：[george1101-hub/GeorgePM](https://github.com/george1101-hub/GeorgePM)
+
+Codex 添加仓库来源：
+
+```sh
+codex plugin marketplace add george1101-hub/GeorgePM
+```
+
+Claude Code 添加仓库来源并安装：
+
+```text
+/plugin marketplace add george1101-hub/GeorgePM
+/plugin install georgepm@georgepm-marketplace
+```
+
+下载：[v0.1.0 发布包](https://github.com/george1101-hub/GeorgePM/releases/tag/v0.1.0)。下面保留本地安装方式。
+
 ### Codex
 
 在支持 repo marketplace 的 Codex 环境，将下载或克隆后的仓库作为本地来源添加：
