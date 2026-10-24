@@ -1,0 +1,15 @@
+{
+  "name": "georgepm-marketplace",
+  "owner": {
+    "name": "George"
+  },
+  "plugins": [
+    {
+      "name": "georgepm",
+      "source": "./",
+      "description": "GeorgePM：从需求定义、交互原型到研发交付的三阶段产品经理工作流。",
+      "version": "0.1.0"
+    }
+  ],
+  "description": "GeorgePM 三阶段产品经理工作流：需求、原型与研发交付。"
+}

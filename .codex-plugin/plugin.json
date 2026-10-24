@@ -1,0 +1,16 @@
+{
+  "name": "georgepm",
+  "version": "0.1.0",
+  "description": "GeorgePM：从需求定义、交互原型到研发交付的三阶段产品经理工作流。",
+  "author": {
+    "name": "George"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GeorgePM",
+    "shortDescription": "需求定义、交互原型与研发交付，三个 Skill 串起产品工作流",
+    "developerName": "George",
+    "category": "Productivity"
+  }
+}

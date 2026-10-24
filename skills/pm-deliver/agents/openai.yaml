@@ -1,0 +1,4 @@
+interface:
+  display_name: "GeorgePM · 研发交付"
+  short_description: "把最终原型转成研发规格，补齐边界、验收、埋点与实现差距"
+  default_prompt: "使用 $pm-deliver 完成当前项目的研发交付，依据现有材料执行并标明待确认项。"

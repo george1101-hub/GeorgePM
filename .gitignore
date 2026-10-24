@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+auth.json
+private_*
+node_modules/
+dist/
+
+.test-work/
